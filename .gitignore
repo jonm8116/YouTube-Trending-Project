@@ -1,0 +1,14 @@
+# Ignore credentials
+credentials/
+
+# Ignore data
+data/
+
+# Ignore client_secret
+api/client_secret.json
+
+# Ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Ignore ipynb_files
+ipynb-files/
